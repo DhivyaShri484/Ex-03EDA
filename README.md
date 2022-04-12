@@ -33,12 +33,11 @@ Find the pairwise correlation of all columns in the dataframe(.corr()).
 Save the final data set into the file.
 
 # CODE
-~~~
+```
 Program 
 Developed by: Dhivya Shri.B
 Register no:212221230009
-~~~
-```
+
 import pandas as pd
 import numpy as np
 import seaborn as sns
